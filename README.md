@@ -1,6 +1,6 @@
 ### Hi there, I'm Dwayne 👋
 
-## I'm your friendly neighbourhood Student!!!
+## I'm your friendly neighbourhood University Student!!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love food and Videogames
