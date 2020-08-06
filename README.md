@@ -3,7 +3,7 @@
 ## I'm a friendly neighbourhood Student!!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love food and Videogames
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Dwayne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dwayne232001&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Dwayne09734789
 [instagram]: https://www.instagram.com/dwayne__vaz/
