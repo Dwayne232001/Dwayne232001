@@ -3,7 +3,7 @@
 ## I'm your friendly neighbourhood University Student!!!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Food and Videogames
+- ⚡ Fun fact: The first computer game was created in 1961
 
 ### Connect with me:
 
